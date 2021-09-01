@@ -11,5 +11,6 @@
 ## 文章
 - [Kingslayer - A supply chain attack -- Part 1](http://www.hackdog.me/article/Kingslayer-A_supply_chain_attack--Part_1.html)
 - [Kingslayer - A supply chain attack -- Part 2](http://www.hackdog.me/article/Kingslayer-A_supply_chain_attack--Part_2.html)
+- [Breaking trust: Shades of crisis across an insecure software supply chain](https://www.atlanticcouncil.org/in-depth-research-reports/report/breaking-trust-shades-of-crisis-across-an-insecure-software-supply-chain/)
 ## PPT
 - [Knowledge Flows in Open Source Software Supply Chains](http://mockus.us/papers/nasac17.pdf)---University of Tennessee

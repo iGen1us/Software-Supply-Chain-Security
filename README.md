@@ -14,3 +14,7 @@
 - [Breaking trust: Shades of crisis across an insecure software supply chain](https://www.atlanticcouncil.org/in-depth-research-reports/report/breaking-trust-shades-of-crisis-across-an-insecure-software-supply-chain/)
 ## PPT
 - [Knowledge Flows in Open Source Software Supply Chains](http://mockus.us/papers/nasac17.pdf)---University of Tennessee
+- [开源软件供应链视角下的漏洞攻防](https://dl.ccf.org.cn/ppt/pptDetail.html?_ack=1&id=5598745104484352)
+## Talk
+- [开源软件供应链及安全关键技术研究](https://dl.ccf.org.cn/video/videoDetail.html?_ack=1&id=5584406698182656)
+- [基于软件工程大数据的开源供应链](https://dl.ccf.org.cn/video/videoDetail.html?_ack=3&id=5531122079565830)

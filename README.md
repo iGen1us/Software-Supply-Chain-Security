@@ -5,6 +5,12 @@
 - [程序逆向分析在软件供应链污染检测中的应用研究综述](http://www.cnki.com.cn/Article/CJFDTotal-JSJY202001018.htm)
 - [Large-scale Third-party Library Detection in Android Markets](https://faculty.ist.psu.edu/wu/papers/LibD-TSE-18.pdf)
 - [Backstabber’s Knife Collection: A Review of Open Source Software Supply Chain Attacks](https://arxiv.org/abs/2005.09535)
+- [Measuring and preventing supply chain attacks on package managers](https://www.notion.so/Papers3a750bf1cb0946d280c4cbe52de69933#2202248da29542d08ffe040bc6c40d5f)
+- [BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain](https://www.atlanticcouncil.org/in-depth-research-reports/report/breaking-trust-shades-of-crisis-across-an-insecure-software-supply-chain/)
+- [SpellBound: Defending Against Package Typosquatting](https://www.notion.so/Papers-3a750bf1cb0946d280c4cbe52de69933#c491774f984b4a10b7230f8806b90208)
+- [Measuring and preventing supply chain attacks on package managers](https://arxiv.org/abs/2002.01139)
+- [A Look In the Mirror: Attacks on Package Managers](https://dl.acm.org/doi/abs/10.1145/1455770.1455841)
+- [Attacks on Package Managers](https://is.muni.cz/th/y41ft/thesis_final_electronic.pdf)
 ## 报告
 - [2021年开源软件供应链安全风险研究报告](https://www.cert.org.cn/publish/main/68/2021/20210630143431039414588/20210630143431039414588_.html)---国家互联网应急中心
 - [软件供应链来源攻击分析报告](https://mp.weixin.qq.com/s/ypKn7uanv7oSDc4h8zvmgQ)---奇安信威胁情报中心
